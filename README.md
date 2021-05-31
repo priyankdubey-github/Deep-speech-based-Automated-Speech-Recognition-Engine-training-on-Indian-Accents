@@ -1,2 +1,2 @@
 # Deep-speech-engine-training-on-Indian-Accents
-Training of Baidu's research based Mozilla deep speech model on Indian Accents
+Training of Baidu's research based Mozilla deep speech model on Indian Accents- To train the latest Mozilla Deep Speech engine version on Indian Accent English as this has been only trained using (mostly) American English datasets, resulting in poor generalizability to other English accents. This trained model will serve as a single platform for speech to text for the whole country with capability of processing the different accents .
