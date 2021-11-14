@@ -10,3 +10,5 @@ deepspeech-0.9.3 to develop an end-to-end speech recognition system for
 Indian-English accents. This work utilizes fine-tuning and data argumentation to 
 further optimize and improve the Deep Speech ASR system. Indic TTS data of 
 Indian-English accents is used for transfer learning and fine-tuning the pretrained Deep Speech model.
+
+A modified train.py need to be changed in DeepSpeech repository
